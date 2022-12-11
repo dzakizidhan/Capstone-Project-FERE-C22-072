@@ -1,0 +1,33 @@
+.blog-detail {
+    margin-bottom: 15px;
+    padding: .5rem 1rem;
+  }
+  
+  .blog-detail .blog-detail-cover {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .blog-detail .blog-detail-cover img {
+    width: 100%;
+  }
+  
+  .blog-detail .blog-detail-info {
+    /* padding: .5rem 1rem; */
+  }
+  
+  .blog-detail .blog-detail-info h3 {
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  
+  .blog-detail .blog-detail-info .blog-detail-author {
+    display: flex;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-detail .blog-detail-info .blog-detail-desc {
+    font-size: 18px;
+  }

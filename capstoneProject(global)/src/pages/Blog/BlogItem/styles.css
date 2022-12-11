@@ -1,0 +1,33 @@
+.blog-item {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.blog-item .blog-item-cover {
+  width: 250px;
+}
+
+.blog-item .blog-item-cover img {
+  width: 100%;
+}
+
+.blog-item .blog-item-info {
+  flex: 1;
+  padding: .5rem 1rem;
+}
+
+.blog-item .blog-item-info h3 {
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+.blog-item .blog-item-info .blog-item-author {
+  display: flex;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.blog-item .blog-item-info .blog-item-desc {
+  font-size: 14px;
+}
